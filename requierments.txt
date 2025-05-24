@@ -1,0 +1,5 @@
+kivy
+random
+os
+arabic_reshaper
+bidi.algorithm
